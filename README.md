@@ -1,1 +1,1 @@
-# MISS_IN_G - Face-Recognition-System
+# MISS_IN_G - A Face Recognition System
